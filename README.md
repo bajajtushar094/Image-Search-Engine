@@ -1,7 +1,7 @@
 <!-- ### CAMPUS LA VIE -->
 <h1 align="left">
   <br>
-    <img src="https://pbs.twimg.com/profile_images/413030425611620352/9um18M3a_400x400.png" align="right" width="10%" height="10%" >
+    <img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK.png" align="right" width="10%" height="10%" >
   <br>
   Image Search Engine
 </h1>
